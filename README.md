@@ -1,5 +1,6 @@
 # 💫 About Me:
 Electrical Engineering Student @ University of Waterloo<br>Engineering across hardware, software, & everything between.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gary-s-sun) 
 
 # 💻 Tech Stack:
